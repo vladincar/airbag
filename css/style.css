@@ -30,7 +30,6 @@ body {
 
 header {
   height: 600px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#353531), to(rgba(53, 53, 49, 0))), url("/pics/proshivka-bloka-upravleniya-air-bag.jpg") no-repeat center;
   background: linear-gradient(180deg, #353531 0%, rgba(53, 53, 49, 0) 100%), url("/pics/proshivka-bloka-upravleniya-air-bag.jpg") no-repeat center;
   background-size: cover;
   color: var(--white900);
