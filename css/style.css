@@ -30,7 +30,7 @@ body {
 
 header {
   height: 600px;
-  background: url("/pics/proshivka-bloka-upravleniya-air-bag.jpg") no-repeat center;
+  background: url("/pics/proshivka-bloka-upravleniya-air-bag.jpg") no-repeat center, linear-gradient(180deg, #353531 0%, rgba(53, 53, 49, 0) 100%);
   background-size: cover;
   color: var(--white900);
 }
